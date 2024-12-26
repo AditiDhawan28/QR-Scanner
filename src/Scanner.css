@@ -2,11 +2,20 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 500px;
-    height:300px; 
+    width: 50rem;
+    height:30rem; 
     margin: auto;
 
 
 }
+#reader{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50rem;
+    height:30rem; 
+    margin: auto;
+}
+
 
 
